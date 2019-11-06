@@ -18,3 +18,7 @@ This is a repositry keeping track of my daily Turtle process
 
 ## polygon.py
 ![Screenshot from 2019-11-06 13-47-47](https://user-images.githubusercontent.com/54119123/68280752-31e1c800-009c-11ea-8416-db94a5015735.png)
+
+
+## spiralstar.py
+![Screenshot from 2019-11-06 13-50-44](https://user-images.githubusercontent.com/54119123/68280913-86854300-009c-11ea-808b-cbac11db5dfe.png)
