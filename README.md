@@ -26,3 +26,7 @@ This is a repositry keeping track of my daily Turtle process
 
 ## colorchange.py
 ![Screenshot from 2019-11-07 14-42-27](https://user-images.githubusercontent.com/54119123/68375488-f19e4a80-016c-11ea-8301-0148b918521a.png)
+
+
+## rainbow triangle
+![Screenshot from 2019-11-07 15-32-08](https://user-images.githubusercontent.com/54119123/68380203-637a9200-0175-11ea-8eaa-1e3c23371507.png)
