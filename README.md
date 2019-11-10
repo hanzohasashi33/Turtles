@@ -30,3 +30,7 @@ This is a repositry keeping track of my daily Turtle process
 
 ## rainbow triangle
 ![Screenshot from 2019-11-07 15-32-08](https://user-images.githubusercontent.com/54119123/68380203-637a9200-0175-11ea-8eaa-1e3c23371507.png)
+
+
+## circle_pattern.py
+![Screenshot from 2019-11-10 18-34-50](https://user-images.githubusercontent.com/54119123/68544422-0a1a9900-03e9-11ea-8e05-6a1e30cda8d8.png)
