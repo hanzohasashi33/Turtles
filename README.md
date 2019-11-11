@@ -39,3 +39,6 @@ This is a repositry keeping track of my daily Turtle process
 ## heart.py
 ![Screenshot from 2019-11-11 11-05-08](https://user-images.githubusercontent.com/54119123/68563357-4bf02180-0473-11ea-8b0f-c1a22337b5bd.png)
 
+
+## spiralhelix.py/rainbow benzene
+![Screenshot from 2019-11-11 11-17-42](https://user-images.githubusercontent.com/54119123/68563850-f157c500-0474-11ea-9ea9-373faf601483.png)
